@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Build
-      working-directory: ./sentinel
+        working-directory: ./sentinel
         run: hugo --minify
 
       - name: Deploy
