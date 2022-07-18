@@ -1,5 +1,7 @@
 +++
 archetype = "chapter"
 title = "Basics"
-weight = 5
+weight = 1
 +++
+
+Lorem Ipsum.
