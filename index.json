@@ -1,1 +1,30 @@
-[{"content":"Lorem Ipsum.\n","description":"","tags":null,"title":"Basics","uri":"/basics/"},{"content":"","description":"","tags":null,"title":"SIEM Introduction","uri":"/basics/siem-introduction/"},{"content":"前提条件 ","description":"","tags":null,"title":"实验介绍","uri":"/"},{"content":"","description":"","tags":null,"title":"Categories","uri":"/categories/"},{"content":"","description":"","tags":null,"title":"Tags","uri":"/tags/"}]
+[
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Basics",
+    "uri": "/basics/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Categories",
+    "uri": "/categories/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Microsoft Sentinel Learning",
+    "uri": "/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Tags",
+    "uri": "/tags/"
+  }
+]
