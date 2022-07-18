@@ -1,4 +1,4 @@
-baseURL = "http://sentinel.helpazure.com/"
+baseURL = "https://cosos.github.io"
 theme = "hugo-theme-relearn"
 languageCode = "en-us"
 title = "Microsoft Sentinel Learning"
