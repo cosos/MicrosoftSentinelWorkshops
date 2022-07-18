@@ -1,7 +1,4 @@
 baseURL = "https://sentinel.helpazure.com"
 theme = "hugo-theme-relearn"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "Microsoft Sentinel Learning"
-
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
