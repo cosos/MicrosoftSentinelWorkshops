@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = "Home"
+title = "实验介绍"
 +++
 
-Lorem Ipsum.
+# 前提条件
