@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = "简介"
+title = "Home"
 +++
 
 ## 
