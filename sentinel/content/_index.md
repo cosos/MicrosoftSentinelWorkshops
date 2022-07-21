@@ -1,6 +1,6 @@
 +++
 archetype = "home"
-title = "实验介绍"
+title = "简介"
 +++
 
-## 前提条件
+## 
